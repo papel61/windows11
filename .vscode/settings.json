@@ -27,5 +27,9 @@
     "main"
   ],
   "GitHooks.hooksDirectory": "c:\\Users\\paolo\\Documents\\GitHub\\windows11\\.git\\hooks",
-  "extension.prophet.sitecontext.selectedSiteID": ""
+  "extension.prophet.sitecontext.selectedSiteID": "",
+  "ocaml.sandbox": {
+    "kind": "custom",
+    "template": "$prog $args"
+  }
 }
