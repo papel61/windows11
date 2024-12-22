@@ -1,3 +1,7 @@
+We welcome you to the cleaning section. Tired of using automatic programs? We will teach you how to clean your system safely, quickly and by yourself!
+
+### <h3 align="center">🧹 Clean Windows</h3>
+
 ### Old script:
 
 ```cmd
@@ -8,9 +12,13 @@ if "%~1" neq "Admin" (
 ) else (
 
 rd "C:\Temp" /s /q
+rd "C:\Windows\Temp" /s /q
 rd "C:\Users\Admin\AppData\Local\Temp" /s /q
-rd "%homepath%/Searches" /s /q
+rd "C:\Users\SCH\AppData\Local\Temp" /s /q
+rd "%homepath%\Searches" /s /q
 rd "C:\PerfLogs" /s /q
+rd "C:\Users\Admin\AppData\Local\CrashDumps" /s /q
+rd "C:\Users\SCH\AppData\Local\CrashDumps" /s /q
 
 )
 exit

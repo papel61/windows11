@@ -1,6 +1,6 @@
-<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> Tweaks </a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Apps </a> | <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </h3>
+<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/apps"> <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</h3>
 
-<h2 align="center">❗ How to install Windows 11 on a computer, without a flash drive?</h2>
+<h3 align="center">❗ How to install Windows 11 on a computer, without a flash drive?</h3>
 
 
 <h3 align="center">1. Download ISO 💿</h3>
@@ -14,14 +14,16 @@
   <img width=20px src="https://i.imgur.com/VzGUTpz.png"> [Windows ISO Downloader](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   <br>
   https://github.com/pbatard/Fido
-
-  <h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
+  <br>
+  https://forum.rg-adguard.net/forums/windows-10.75/
+  
+<h3 align="center">2. Create VHD (Virtual Disks) 💾</h3>
 
   <img width=20px src="https://neosmart.net/EasyBCD/i/favicon.png"> https://rsload.net/soft/11768-easybcd.html
   <br>
   <img width=20px src="https://i.imgur.com/Fzky91J.png"> https://www.sordum.org/8705/simple-vhd-manager-v1-4
 
-  <h3 align="center">3. Install ISO ⬇</h3>
+<h3 align="center">3. Install ISO ⬇</h3>
 
   [❗ My files](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ)
   <br>
@@ -41,7 +43,7 @@
   <br>
   [Windows Insider Build ISO](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
   <br>
-  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](http://www.it.nrru.ac.th/download/utilities/pwfree9.exe)
+  <img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> [MBR to GPT (without data loss)](https://link.storjshare.io/s/jxj5b2zkvwcb2k3wmddev2hxs27a/jestx/MiniTool%20Partition%20Wizard%20Free%20Edition%209.0/)
   <br>
   [Rectify11](https://rectify.vercel.app)
   <br>

@@ -1,29 +1,50 @@
-<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> Tweaks </a> | <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Apps | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> ISO </a> </h3>
+<h3 align="center"> <a href="https://github.com/awesome-windows11/windows11/blob/main/README.md"> <img width=25px src="https://siteicon.vercel.app/icon/terminal.png"> Tweaks</a> | <img width=25px src="https://siteicon.vercel.app/icon/settings.png"> Apps | <a href="https://github.com/awesome-windows11/windows11/tree/main/faq"> ❓ FAQ</a> | <a href="https://github.com/awesome-windows11/windows11/tree/main/iso"> <img width=25px src="https://siteicon.vercel.app/icon/disk.ico"> ISO</a></h3>
+
+### Ad blockers [are over](https://github.com/awesome-windows11/CensorNet/blob/main/browser/manifestv3.md)! Switch to the right browsers.
 
 <h2 align="center"><img width=25px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16.ico"> System Tools</h2>
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> AutoRun</b>
-
-Hidden Apps AutoRun: https://www.nirsoft.net/utils/what_run_in_startup.html
+### AutoRun
+<img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_25.ico"> https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 <br>
-AutoRuns: https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+<img width=20px src="https://i.imgur.com/J0L0kl3.gif"> https://www.nirsoft.net/utils/what_run_in_startup.html
 
-<b><img width=20px src="https://cdn-icons-png.flaticon.com/512/8945/8945503.png"> Privacy / SpyBlock</b>
+### Cleaner
+<img width=20px src="https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/favicon-32x32.png"> https://www.ccleaner.com/ccleaner
+<br>
+<img width=20px src="https://i.imgur.com/qE3s7cl.png"> https://chemtable.ru/organizer.htm
+<br>
+<img width=20px src="https://i.imgur.com/Nt9Q2Y7.png"> https://www.wisecleaner.com/wise-disk-cleaner.html
+<br>
+<img width=20px src="https://raw.githubusercontent.com/builtbybel/CleanmgrPlus/master/cleanmgr%2B.png"> https://github.com/builtbybel/CleanmgrPlus
+<br>
+<img width=20px src="https://i.imgur.com/0HQq28C.png"> https://github.com/thebookisclosed/Comet
 
-https://github.com/crazy-max/WindowsSpyBlocker
+### Files
+https://www.voidtools.com/downloads/
+<br>
+<img width=20px src="https://i.imgur.com/gahQIjW.png"> https://diskanalyzer.com/download
+<br>
+https://www.ntwind.com/software/visual-subst.html
+
+### Uninstaller
+<img width=20px src="https://i.imgur.com/2o4Wf5V.png"> https://github.com/Klocman/Bulk-Crap-Uninstaller
+<br>
+<img width=20px src="https://i.imgur.com/vlNtfib.png"> https://crystalidea.com/ru/uninstall-tool
+
+### Privacy / SpyBlock
+<img width=20px src="https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/.res/logo.png"> https://github.com/crazy-max/WindowsSpyBlocker
+<br>
+<img width=20px src="https://raw.githubusercontent.com/builtbybel/privatezilla/master/src/Privatezilla/icon.ico"> https://github.com/builtbybel/Privatezilla
 <br>
 https://github.com/W4RH4WK/Debloat-Windows-10
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_302.ico"> Disk</b>
-
-<b>Manager Partition</b>
-
-MiniTool Partition Wizard Free: https://www.partitionwizard.com/free-partition-manager.html
+### Manager Partition
+<img width=20px src="https://i.imgur.com/x6vIT9f.png"> https://www.partitionwizard.com/free-partition-manager.html
 <br>
-AOMEI Partition Assistant: https://www.diskpart.com/free-partition-manager.html
+<img width=20px src="https://i.imgur.com/y1q7gfv.png"> https://www.diskpart.com/free-partition-manager.html
 
-<b>SSD Info</b>
-
+### SSD Info
 CrystalDiskInfo: https://crystalmark.info/en/download/#CrystalDiskInfo
 <br>
 CrystalDiskMark: https://crystalmark.info/en/download/#CrystalDiskMark
@@ -36,16 +57,14 @@ Victoria: https://hdd.by/victoria
 <br>
 ClearDiskInfo: https://www.carifred.com/cleardiskinfo
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_32.ico"> Uninstaller</b>
+Samsung: https://semiconductor.samsung.com/consumer-storage/support/tools/
+<br>
+Western Digital: https://support-en.wd.com/app/products/downloads/softwaredownloads
 
-BCUninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
-<br>
-UninstallTool: https://crystalidea.com/ru/uninstall-tool
-<br>
+### Unlock File
 https://lockhunter.com
 
-<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)</b>
-
+### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Shield/3D/shield_3d.png"> Management (Security)
 https://defaultprogramseditor.com
 <br>
 <img width=20px src="https://raw.githubusercontent.com/SiL3NC3/PortableRegistrator/master/Resources/Wallpaperfx-3d-Bluefx-Desktop-Usb.png"> https://github.com/SiL3NC3/PortableRegistrator
@@ -54,35 +73,34 @@ SafeMode Launcher: https://www.sordum.org/12964/safe-mode-launcher-v1-1
 <br>
 Compressor CompactOS: https://github.com/IridiumIO/CompactGUI
 
-
-<b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet</b>
-
+### <img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20americas/3D/globe_showing_americas_3d.png"> Internet
 qBittorrent: https://portableapps.com/apps/internet/qbittorrent_portable
 <br>
 URL Disabler: https://www.sordum.org/13075/url-disabler-v1-1
 
-
-<b> Virtual</b>
-
+### Virtual
 <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"> https://www.virtualbox.org/wiki/Downloads
 <br>
 <img width=20px src="https://cdni.comss.net/logo/sandboxie_icon.png"></img> https://github.com/sandboxie-plus/Sandboxie
 
 
-<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver</b>
-
+### <img width=20px src="https://cdn-icons-png.flaticon.com/512/1400/1400975.png"> Driver
 Snappy Driver Installer: https://sdi-tool.org/download
 <br>
 G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
 
+### Files
+Virtual Files System: https://github.com/dokan-dev/dokany
 
 <details><summary><b>Activators</b></summary>
 
-  ### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
+### <a target="_blank" href="https://github.com/awesome-windows11/windows11/releases/tag/99">🔓 Activator by Ratiborus</a>
 
-  https://github.com/massgravel/Microsoft-Activation-Scripts
+https://github.com/massgravel/Microsoft-Activation-Scripts
 	
-  https://github.com/newmen93/W10-Digital-License-Activation-Script-4
+https://github.com/newmen93/W10-Digital-License-Activation-Script-4
+
+https://github.com/abbodi1406/KMS_VL_ALL_AIO
 
   В AAct все операции с активацией, с лицензиями, выполняются с помощью стандартных скриптов slmgr.vbs и ospp.vbs, уж их то даже самый ненормальный антивирусник не заподозрит в "троянстве".
 
@@ -96,19 +114,27 @@ G-Hub: https://www.logitechg.com/ru-ru/innovation/g-hub.html
   </details>
 </details>
 
-
-
 <h2 align="center">User Tools</h2>
 
-<b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_236.ico"> Media (Photo, Video, Audio)</b>
+### Media (Photo, Video, Audio)
 
-PaintNet: https://www.dotpdn.com/downloads/pdn.html
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/paintnet.webp"> https://www.dotpdn.com/downloads/pdn.html
 <br>
-Open `.ogg` file: https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/ogg.png"> https://apps.microsoft.com/store/detail/web-media-extensions/9N5TDP8VCMHS
 <br>
-Windows Media Player: https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
+<img width=20px src="https://raw.githubusercontent.com/Xanashi/Icaros/master/IcarosIcon_128.png"> https://github.com/Xanashi/Icaros
+<br>
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mediaplayer.png"> https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT
+<br>
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/mpc-hc.png"> https://github.com/Aleksoid1978/MPC-BE (_MPC-HC does not work with Cryptomator!_)
+<br>
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/resonicplayer.png"> https://resonic.at/download
+<br>
+Windows Scan (*useful when your printer drivers are not working and old!*) https://apps.microsoft.com/detail/9wzdncrfj3pv?hl=en-US&gl=US
+<br>
+MFPlat.dll & MFReadWrite.dll Media Feature Pack for N Version (an error occurs during installation LgHub)
 
-<b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> Hash</b>
+<img width=20px src="https://cdn-icons-png.flaticon.com/512/7754/7754226.png"> **Hash**
 
 https://github.com/gurnec/HashCheck
 <br>
@@ -120,38 +146,46 @@ https://github.com/tristanheaven/gtkhash
 <br>
 http://getmd5checker.com
 
-<details><summary><b> <img width=20px src="https://i.imgur.com/vTxqXNZ.png"> Double-click mouse fix</b></summary>
+<img width=20px src="https://site-iota-coral.vercel.app/icon/clipboard.png"> **Macros / Text Expander**
 
-  ### Проверка
-  https://alexbruni.ru/checkmouse
-  <br>
-  https://codepen.io/blink172/pen/vERyxK
-  <br>
-  ### Исправить
-  https://www.clickfix.cf
+[AutoHotKey](https://www.autohotkey.com/)
+<br>
+Does not accept ahk_exe in VSCode (reasons not clear)
 
-  https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
-</details>
+[Espanso](https://espanso.org/)
 
+[FastKeys](https://www.fastkeysautomation.com/index.html)
+<br>
+Occasional glitches, stores settings in Documents folder
 
+<img width=20px src="https://i.imgur.com/vTxqXNZ.png"> **Double-click mouse fix**
 
+**Check**
+<br>
+https://alexbruni.ru/checkmouse
+<br>
+https://codepen.io/blink172/pen/vERyxK
 
-<details><summary><b><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> Win11 APK</b></summary>
+**Fix**
+<br>
+https://www.clickfix.cf
+<br>
+https://www.softpedia.com/get/System/System-Miscellaneous/Left-Mouse-Button-Fix.shtml
 
-  APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
-  <br>
-  APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
-  <br>
-  APK Installer 3: https://github.com/voletro/wsa-toolbox
-  <br>
-  Google Play Installer: https://github.com/ADeltaX/WSAGAScript
-</details>
+<h2 align="center">Win11 Tools</h2>
 
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Mobile%20phone/3D/mobile_phone_3d.png"> **Win11 APK**
 
+APK Installer 1: [An APK File Installer for WSA](https://apps.microsoft.com/store/detail/apk-file-installer/9MVVJLDMWPSG)
+<br>
+APK Installer 2: [WSATools](https://apps.microsoft.com/store/detail/9N4P75DXL6FG)
+<br>
+APK Installer 3: https://github.com/voletro/wsa-toolbox
+<br>
+Google Play Installer: https://github.com/ADeltaX/WSAGAScript
 
-<details><summary><b><img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> Compatibility check (Win11)</b></summary>
+<img width=20px src="https://i.imgur.com/Bi8Dvrt.png"> **Compatibility check (Win11)**
 
-  https://github.com/rcmaehl/WhyNotWin11
-  <br>
-  https://github.com/mq1n/Win11SysCheck
-</details>
+https://github.com/rcmaehl/WhyNotWin11
+<br>
+https://github.com/mq1n/Win11SysCheck
